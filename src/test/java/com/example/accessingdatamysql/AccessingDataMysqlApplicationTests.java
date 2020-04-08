@@ -8,6 +8,7 @@ class AccessingDataMysqlApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("\n\n\nSprint Boot test is successful\n\n\n");
 	}
 
 }
